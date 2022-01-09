@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Karl.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Exploring new front anf back technologies and developing.
+- 🎓 &nbsp; Exploring new Frontend and Backend technologies and developing.
 - 💼 &nbsp; Android developer and front-end web developer.
 - ☕ &nbsp; Coffee Geek. 
 
