@@ -1,16 +1,15 @@
 <h2> Hey there! I'm Karl.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Exploring new Frontend and Backend technologies and developing.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Exploring new Frontend and Backend technologies.
 - ☕ &nbsp; Coffee Geek. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  Java   
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript/ES6 | Bootstrap / Material UI / React
-- 🛢 &nbsp; MySQL | Firebase | Heroku
-- 🔧 &nbsp; Android Studio |  Visual Studio code | Atom | Git
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript/ES6 | Bootstrap / Material UI / React | Kotlin | Python 
+- 🛢 &nbsp; MySQL | Firebase | Heroku | Spring | Node.js
+- 🔧 &nbsp; Android Studio |  Visual Studio code | Atom | Git | PyCharm 
 
 <br>
 
