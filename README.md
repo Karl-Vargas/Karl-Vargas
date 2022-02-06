@@ -5,10 +5,9 @@
 - ☕ &nbsp; Coffee Geek. 
 
 <h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp;  Java   
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript/ES6 | Bootstrap / Material UI / React | Kotlin | Python 
-- 🛢 &nbsp; MySQL | Firebase | Heroku | Spring | Node.js
+ 
+- 🌐 &nbsp;| HTML | CSS | JavaScript/ES6 | Bootstrap / Material UI / Styled Components / React 
+- 🛢 &nbsp; MySQL | Firebase | Heroku | Spring | Node.js | Java | PHP | Postman | Kotlin | Python | Flutter
 - 🔧 &nbsp; Android Studio |  Visual Studio code | Atom | Git | PyCharm 
 
 <br>
